@@ -1,1 +1,2 @@
-this has been edied by bugfix branch
+EDITED BY TESTING
+>>>>>>> testing
